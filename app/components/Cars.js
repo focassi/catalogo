@@ -105,37 +105,37 @@ export function Cards({title, n}) {
   const coursesToShow = n ? courses.slice(0, n) : courses
 
   return (
-    <div className='container mx-auto max-w-screen-xl'>
-      <div class="pt-10 pb-5">
-        <h3 class="w-full text-3xl text-center font-light">
+    <div className={'container mx-auto max-w-screen-xl'}>
+      <div className={"pt-10 pb-5"}>
+        <h3 className={"w-full text-3xl text-center font-light"}>
           {title}
         </h3>
       </div>
-      <div class="flex flex-wrap justify-around pb-8">
+      <div className={"flex flex-wrap justify-around pb-8"}>
         {
           coursesToShow.map(({ title, img }) => (
             <div
-              key={title} class="block max-w-sm my-6 rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)]">
+              key={title} className={"block max-w-sm my-6 rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)]"}>
               <a href="#!">
                 <CldImage width={385} height={274}
-                  class="rounded-t-lg"
+                  className={"rounded-t-lg"}
                   src={img}
                   alt={title}
                   crop="thumb" 
                 />
               </a>
-              <div class="p-6">
+              <div className={"p-6"}>
                 <h5
-                  class="mb-2 text-xl font-normal leading-tight text-neutral-800">
+                  className={"mb-2 text-xl font-normal leading-tight text-neutral-800"}>
                   { title }
                 </h5>
-                <p class="mb-4 text-base text-neutral-600">
+                <p className={"mb-4 text-base text-neutral-600"}>
                   Some quick example text to build on the card title and make up the
                   bulk of the cards content.
                 </p>
                 <button
                   type="button"
-                  class="w-full py-4 font-semibolt transition-colors bg-yellow-200 hover:bg-yellow-300 rounded-md focus:outline-none focus:ring-offset-2 focus:ring focus:ring-amber-200 px-7"
+                  className={"w-full py-4 font-semibolt transition-colors bg-yellow-200 hover:bg-yellow-300 rounded-md focus:outline-none focus:ring-offset-2 focus:ring focus:ring-amber-200 px-7"}
                   data-te-ripple-init
                   data-te-ripple-color="light">
                   Obtener Detalles
@@ -145,7 +145,6 @@ export function Cards({title, n}) {
           ))
         }
       </div>
-
     </div>
   )
 }

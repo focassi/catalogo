@@ -14,13 +14,13 @@ const links = [
 
 export function Navigation () {
   return (
-    <header class="w-full bg-amber-100 py-10 px-6">
-      <nav class="flex justify-start items-center mx-6">
+    <header className="w-full bg-amber-100 py-10 px-6">
+      <nav className="flex justify-start items-center mx-6">
         <Image src="/focassi.png" alt='logo' width={60} height={60}/>
-        <ul class="flex justify-start mx-6">
+        <ul className="flex justify-start mx-6">
           {
             links.map(({label, route}) => (
-              <li key={route} class="mr-6 text-lg">
+              <li key={route} className="mr-6 text-lg">
                 <Link href={route}>
                   {label}
                 </Link>
