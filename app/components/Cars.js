@@ -8,7 +8,7 @@ const courses = [
     "title": "Rescate Vertical"
   },
   {
-    "img": "/Focassi/Primeros_auxilios_mi70vb.webp", 
+    "img": "/Focassi/Primeros_auxilios_mi70vb.jpg", 
     "title": "Primeros auxilios"
   },
   {
@@ -16,87 +16,87 @@ const courses = [
     "title": "Trabajo de Altura en Condiciones De Seguridad"
   },
   {
-    "img": "/Focassi/Búsqueda_y_Rescate_yhtnzs.webp", 
+    "img": "/Focassi/Búsqueda_y_Rescate_yhtnzs.jpg", 
     "title": "Búsqueda y Rescate"
   },
   {
-    "img": "/Focassi/Rescate_Acuatico_p2lfx6.webp", 
+    "img": "/Focassi/Rescate_Acuatico_p2lfx6.jpg", 
     "title": "Rescate Acuatico"
   },
   {
-    "img": "/Focassi/Seguridad_e_Higiene_Industrial_rlom4q.webp", 
+    "img": "/Focassi/Seguridad_e_Higiene_Industrial_rlom4q.jpg", 
     "title": "Seguridad e Higiene Industrial"
   },
   {
-    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.webp", 
+    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.jpg",
     "title": "Control y Combate De Incendios"
   },
   {
-    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.webp", 
+    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.jpg", 
     "title": "Evacuación en Caso de Emergencias"
   },
   {
-    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.webp", 
+    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.jpg", 
     "title": "Condiciones de Seguridad en Espacios Confinados"
   },
   {
-    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.webp", 
+    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.jpg", 
     "title": "Selección Uso y Manejo del Equipo de Protección Personal"
   },
   {
-    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.webp", 
+    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.jpg", 
     "title": "Identificación, Comunicación De Peligros Y Riesgos de Sustancias Químico Peligrosas en los centros de Trabajo"
   },
   {
-    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.webp", 
+    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.jpg", 
     "title": "Condiciones de Seguridad en Mantenimiento e Instalaciones Eléctricas"
   },
   {
-    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.webp", 
+    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.jpg", 
     "title": "Condiciones De Seguridad en la Construcción"
   },
   {
-    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.webp", 
+    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.jpg", 
     "title": "Uso y Armado de Andamios"
   },
   {
-    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.webp", 
+    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.jpg", 
     "title": "Loto Candadeo y Etiquetado de Energía"
   },
   {
-    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.webp", 
+    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.jpg", 
     "title": "Uso de Herramientas Manual y de Poder"
   },
   {
-    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.webp", 
+    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.jpg", 
     "title": "Riesgo Por Excavaciones"
   },
   {
-    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.webp", 
+    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.jpg", 
     "title": "Plataformas de Elevación"
   },
   {
-    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.webp", 
+    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.jpg", 
     "title": "Corte y Soldadura"
   },
   {
-    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.webp", 
+    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.jpg", 
     "title": "Trabajos en Caliente"
   },
   {
-    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.webp", 
+    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.jpg", 
     "title": "Seguridad en Maniobras de Grúas e Izajes"
   },
   {
-    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.webp", 
+    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.jpg", 
     "title": "Gestión Integral de Residuos"
   },
   {
-    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.webp", 
+    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.jpg", 
     "title": "Riesgo Electrico"
   },
   {
-    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.webp", 
+    "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.jpg", 
     "title": "Manejo de Escaleras, Cuerdas y Nudos"
   }
 ]
