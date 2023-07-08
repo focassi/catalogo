@@ -8,7 +8,7 @@ export default function homePage() {
     <>
       <div className="relative overflow-hidden bg-cover bg-no-repeat" style={{
         backgroundPosition: '50%',
-        backgroundImage: 'url("/hero-img.webp")',
+        backgroundImage: 'url("/hero-img.jpg")',
         height: 500,
       }}>
         <div

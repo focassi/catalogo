@@ -102,7 +102,7 @@ const courses = [
 ]
 
 export function Cards({title, n}) {
-  const coursesToShow = n ? courses.slice(0, n) : courses
+  const coursesToShow = (n === null) ? courses : courses.slice(0, n);
 
   return (
     <div className={'container mx-auto max-w-screen-xl'}>
