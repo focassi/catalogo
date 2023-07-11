@@ -1,6 +1,9 @@
 "use client"
-import { CldImage } from 'next-cloudinary';
+// import { CldImage } from 'next-cloudinary';
+import Image from 'next/image';
 import Link from 'next/link';
+
+const cloudURL = "https://res.cloudinary.com/dtisjc6sf/image/upload/c_thumb,w_385,h_274,g_auto/f_auto/q_auto/v1/";
 
 const courses = [
   {
@@ -117,12 +120,7 @@ export function Cards({title, n}) {
             <div
               key={title} className={"block max-w-sm my-6 rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)]"}>
               <a href="#!">
-                <CldImage width={385} height={274}
-                  className={"rounded-t-lg"}
-                  src={img}
-                  alt={title}
-                  crop="thumb" 
-                />
+                <Image src={`${cloudURL}${img}`} width={385} height={274} alt={title} />
               </a>
               <div className={"p-6"}>
                 <h5
