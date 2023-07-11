@@ -8,7 +8,7 @@ export default function homePage() {
     <>
       <div className="relative overflow-hidden bg-cover bg-no-repeat" style={{
         backgroundPosition: '50%',
-        backgroundImage: 'url("/hero-img.jpg")',
+        backgroundImage: 'url("https://res.cloudinary.com/dtisjc6sf/image/upload/v1689094793/Focassi/hero-img_gwgra4.jpg")',
         height: 500,
       }}>
         <div

@@ -4,7 +4,6 @@ import React, { useState } from 'react';
 
 export function Contact() {
   let sendingEmail = false;
-
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
   const [message, setMessage] = useState('');

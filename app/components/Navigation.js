@@ -16,7 +16,7 @@ export function Navigation () {
   return (
     <header className="w-full bg-amber-100 py-10 px-6">
       <nav className="flex justify-start items-center mx-6">
-        <Image src="/focassi.png" alt='logo' width={60} height={60}/>
+        <Image src="https://res.cloudinary.com/dtisjc6sf/image/upload/v1689094700/Focassi/focassi_sjsvo1.png" alt='logo' width={60} height={60}/>
         <ul className="flex justify-start mx-6">
           {
             links.map(({label, route}) => (
