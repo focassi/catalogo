@@ -7,7 +7,7 @@ import { useState } from "react";
 const links = [
   {
     label: "Inicio",
-    route: "/"
+    route: "/home"
   },
   {
     label: "Cursos",
@@ -38,7 +38,7 @@ export function Navigation() {
             </svg>
           </button>
         </div>
-        {/* hidden  */}
+    
         <div className={`${collapsed ? "": "hidden"} text-center lg:flex lg:items-center`}>
           <ul className="items-center justify-end flex-1 pt-6 list-none lg:pt-0 lg:flex">
             {
@@ -52,6 +52,7 @@ export function Navigation() {
             }
           </ul>
         </div>
+
         <div className="hidden mr-3 space-x-4 lg:flex nav__item">
           <a className="px-6 py-2 text-white bg-indigo-600 rounded-md md:ml-5" href="/#contact-us">CONTACTO</a>
         </div>

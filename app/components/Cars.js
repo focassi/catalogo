@@ -11,7 +11,7 @@ const courses = [
     "title": "Rescate Vertical"
   },
   {
-    "img": "/Focassi/Primeros_auxilios_mi70vb.jpg", 
+    "img": "/Focassi/Primeros_auxilios_bidqii.jpg", 
     "title": "Primeros auxilios"
   },
   {
