@@ -7,7 +7,7 @@ import { useState } from "react";
 const links = [
   {
     label: "Inicio",
-    route: "/home"
+    route: "/"
   },
   {
     label: "Cursos",

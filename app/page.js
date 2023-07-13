@@ -12,7 +12,7 @@ export default function homePage() {
         height: 500,
       }}>
         <div
-          className="absolute top-0 right-0 bottom-0 left-0 h-full w-full overflow-hidden bg-[hsla(0,0%,0%,0.75)] bg-fixed">
+          className="absolute top-0 right-0 bottom-0 left-0 h-full w-full overflow-hidden bg-[hsla(0,0%,0%,0.5)] bg-fixed">
           <div className="flex h-full items-center justify-center">
             <div className="px-6 text-center text-white md:px-12">
               <h1 className="mt-2 mb-16 text-3xl font-semibold capitalize tracking-tight  md:text-4xl xl:text-5xl leading-loose">
