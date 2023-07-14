@@ -15,7 +15,7 @@ export function Course({ title, img, description }) {
           className={"mb-2 text-xl font-normal leading-tight text-neutral-800"}>
           {title}
         </h5>
-        <div className={`py-3   text-sm mt-8 font-light`} dangerouslySetInnerHTML={{ __html: description }}></div>
+        <div className={`py-3 text-sm mt-2 mb-4 list-disc font-light`} dangerouslySetInnerHTML={{ __html: description }}></div>
 
         <Link
           type="button"
