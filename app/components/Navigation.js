@@ -38,22 +38,27 @@ export function Navigation() {
             </svg>
           </button>
         </div>
-    
-        <div className={`${collapsed ? "": "hidden"} text-center lg:flex lg:items-center`}>
+
+        <div className={`${collapsed ? "" : "hidden"} text-center lg:flex lg:items-center`}>
           <ul className="items-center justify-end flex-1 pt-6 list-none lg:pt-0 lg:flex">
             {
               links.map(({ label, route }) => (
                 <li key={route} className="mr-3 text-left">
-                  <Link href={route} className={`inline-block px-4 py-2 text-lg font-normal text-black no-underline rounded-md hover:text-indigo-500 focus:text-indigo-500 focus:outline-none `}>
+                  <Link href={route} className={`inline-block px-4 py-2 text-lg font-normal text-black no-underline rounded-md hover:text-amber-500 focus:text-amber-500 focus:outline-none `} onClick={() => setSidebarCollapsed((prev) => !prev)}>
                     {label}
                   </Link>
                 </li>
               ))
             }
+            <li className="md:hidden mr-3 text-left">
+              <Link href={'/contactanos'} className={`inline-block px-4 py-2 text-lg font-normal text-black no-underline rounded-md hover:text-amber-500 focus:text-amber-500 focus:outline-none `} onClick={() => setSidebarCollapsed((prev) => !prev)}>
+                Contactanos
+              </Link>
+            </li>
           </ul>
         </div>
 
-        <div className="hidden mr-3 space-x-4 lg:flex nav__item">
+        <div className={`hidden mr-3 space-x-4 lg:flex nav__item`}>
           <Link className="px-6 py-2 text-black text-sm focus:text-amber-500 active:text-amber-500 hover:text-amber-500 rounded-md border-2 border-black font-medium uppercase leading-normal transition duration-150 ease-in-out hover:border-amber-500 hover:bg-amber-500 hover:bg-opacity-10 focus:border-amber-500 focus:outline-none focus:ring-0 active:border-amber-500" href="/contactanos">CONTACTO</Link>
         </div>
       </nav>
