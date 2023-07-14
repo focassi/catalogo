@@ -1,0 +1,135 @@
+{
+  "coursesData": [
+    {
+      "id": 1,
+      "img": "/Focassi/Rescate_vertical_edaylk.jpg",
+      "title": "Rescate Vertical"
+    },
+    {
+      "id": 2,
+      "img": "/Focassi/Primeros_auxilios_bidqii.jpg",
+      "title": "Primeros auxilios",
+      "description": "Seguridad en vía pública, carretera y senderos. Seguridad del respondiente y la víctima. RCP _ Soporte vital inicial en adulto y niños. Maniobra para la desobstrucción de la vía aérea (OVACE). Inmovilización de lesiones. Atención a heridas. Atención a hemorragias. Atención a fracturas."
+    },
+    {
+      "id": 3,
+      "img": "/Focassi/Trabajo_de_Altura_en_Condiciones_De_Seguridad_b39epi.jpg",
+      "title": "Trabajo de Altura en Condiciones De Seguridad",
+      "description": "Norma Oficial Mexicana NOM-009-STPS-2011, Condiciones de seguridad para realizar trabajos en altura."
+    },
+    {
+      "id": 4,
+      "img": "/Focassi/Búsqueda_y_Rescate_yhtnzs.jpg",
+      "title": "Búsqueda y Rescate"
+    },
+    {
+      "id": 5,
+      "img": "/Focassi/Rescate_Acuatico_p2lfx6.jpg",
+      "title": "Rescate Acuatico"
+    },
+    {
+      "id": 6,
+      "img": "/Focassi/Seguridad_e_Higiene_Industrial_ordnuv.jpg",
+      "title": "Seguridad e Higiene Industrial",
+      "description": "Norma Oficial Mexicana NOM-030-STPS-2009, Servicios preventivos de seguridad y salud en el trabajo-Funciones y actividades."
+    },
+    {
+      "id": 7,
+      "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.jpg",
+      "title": "Control y Combate De Incendios",
+      "description": "Norma Oficial Mexicana NOM-002-STPS-2010, Condiciones de seguridad-Prevención y protección contra incendios en los centros de trabajo. Uso y manejo de extintores"
+    },
+    {
+      "id": 8,
+      "img": "/Focassi/Evacuación_en_Caso_de_Emergenciasjpg_yelagq.jpg",
+      "title": "Evacuación en Caso de Emergencias"
+    },
+    {
+      "id": 9,
+      "img": "/Focassi/Safety_Conditions_in_Confined_Spaces_p1ya4m.jpg",
+      "title": "Condiciones de Seguridad en Espacios Confinados",
+      "description": "Norma Oficial Mexicana NOM-030-STPS-2009, Servicios preventivos de seguridad y salud en el trabajo-Funciones y actividades."
+    },
+    {
+      "id": 10,
+      "img": "/Focassi/Personal_protection_wlwr9i.jpg",
+      "title": "Selección Uso y Manejo del Equipo de Protección Personal",
+      "description": "Norma Oficial Mexicana NOM-017-STPS-2008, Equipo de protección personal-Selección, uso y manejo en los centros de trabajo."
+    },
+    {
+      "id": 11,
+      "img": "/Focassi/Identification_and_Protection_oj7ew6.jpg",
+      "title": "Identificación, Comunicación De Peligros Y Riesgos de Sustancias Químico Peligrosas en los centros de Trabajo",
+      "description": "Norma Oficial Mexicana NOM-010-STPS-2014, Agentes químicos contaminantes del ambiente laboral-Reconocimiento, evaluación y control."
+    },
+    {
+      "id": 12,
+      "img": "/Focassi/Electricla%20Installations.jpg",
+      "title": "Condiciones de Seguridad en Mantenimiento e Instalaciones Eléctricas",
+      "description": "Norma Oficial Mexicana NOM-029-STPS-2011, Mantenimiento de las instalaciones eléctricas en los centros de trabajo-Condiciones de seguridad."
+    },
+    {
+      "id": 13,
+      "img": "/Focassi/construction_safety_f2uyql.jpg",
+      "title": "Condiciones De Seguridad en la Construcción",
+      "description": "Norma Oficial Mexicana NOM-031-STPS-2011, Construcción-Condiciones de seguridad y salud en el trabajo."
+    },
+    {
+      "id": 14,
+      "img": "/Focassi/Scaffolding_yqythv.jpg",
+      "title": "Uso y Armado de Andamios",
+      "description": "Condiciones de seguridad para la correcta ejecucion de armado de andamios acorde a la NOM-009-STPS-2011, Condiciones de seguridad para realizar trabajos en altura."
+    },
+    {
+      "id": 15,
+      "img": "/Focassi/Electricity_Box_tjhuf3.jpg",
+      "title": "Loto Candadeo y Etiquetado de Energía",
+      "description": "Lockout/tagout que significa bloqueo/etiquetado. Se refiere a los procedimientos utilizados para asegurar que el equipo esté apagado e inoperable hasta que se completen los trabajos de mantenimiento o reparación."
+    },
+    {
+      "id": 16,
+      "img": "/Focassi/Powert_Tools._bunjm3.jpg",
+      "title": "Uso de Herramientas Manual y de Poder"
+    },
+    {
+      "id": 17,
+      "img": "/Focassi/Excavations_ymndau.jpg",
+      "title": "Riesgo Por Excavaciones"
+    },
+    {
+      "id": 18,
+      "img": "/Focassi/Oil_Platform_se3pao.jpg",
+      "title": "Plataformas de Elevación"
+    },
+    {
+      "id": 19,
+      "img": "/Focassi/Welding_jj9ll4.jpg",
+      "title": "Corte y Soldadura"
+    },
+    {
+      "id": 20,
+      "img": "/Focassi/blowtorch_wqw9e7.jpg",
+      "title": "Trabajos en Caliente"
+    },
+    {
+      "id": 21,
+      "img": "/Focassi/Cranes_hr8tei.jpg",
+      "title": "Seguridad en Maniobras de Grúas e Izajes"
+    },
+    {
+      "id": 22,
+      "img": "/Focassi/Wastes_omiz3b.jpg",
+      "title": "Gestión Integral de Residuos"
+    },
+    {
+      "id": 23,
+      "img": "/Focassi/Electricity_Risk_sspb1i.jpg",
+      "title": "Riesgo Electrico"
+    },
+    {
+      "id": 24,
+      "img": "/Focassi/Lladders_Knots_Ropes_v1byl0.jpg",
+      "title": "Manejo de Escaleras, Cuerdas y Nudos"
+    }
+  ]
+}

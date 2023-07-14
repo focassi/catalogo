@@ -1,7 +1,8 @@
 import Link from "next/link";
 import Image from "next/image";
-import { Cards } from "./components/Cars";
+// import { Cards } from "./components/Cars";
 import { Contact } from "./components/Contact";
+import { Courses } from "./components/Courses";
 
 export default function homePage() {
   return (
@@ -28,7 +29,7 @@ export default function homePage() {
           </div>
         </div>
       </div>
-      <Cards title={'Conoce Nuestros Cursos'} n={6} />
+      <Courses title={'Conoce Nuestros Cursos'} n={6} />
       <div className="container mx-auto max-w-screen-xl text-center">
         <div className="flex flex-wrap justify-center py-6">
           <div className="block max-w-sm my-6">

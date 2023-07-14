@@ -1,5 +1,5 @@
-import {Cards} from "../components/Cars"
+import { Courses } from "../components/Courses"
 
 export default function Page() {
-  return <Cards title={'Nuestros cursos'} n={null}/>
+  return <Courses title={'Nuestros cursos'} n={null}/>
 }
