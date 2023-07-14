@@ -1,0 +1,28 @@
+{
+  "clientsdata": [
+    {
+      "id": 1,
+      "name": "SIEMENS"
+    },
+    {
+      "id": 2,
+      "name": "IMEVAL DE OCCIDENTE"
+    },
+    {
+      "id": 3,
+      "name": "Brincolines GDL"
+    },
+    {
+      "id": 4,
+      "name": "Wolf sports center"
+    },
+    {
+      "id": 5,
+      "name": "Clean GDL"
+    },
+    {
+      "id": 6,
+      "name": "HUAWEI"
+    }
+  ]
+}

@@ -3,13 +3,14 @@
     {
       "id": 1,
       "img": "/Focassi/Rescate_vertical_edaylk.jpg",
-      "title": "Rescate Vertical"
+      "title": "Rescate Vertical",
+      "description": "<p class='text-justify'>Brindar los conocimientos teóricos y prácticos necesarios para que se puedan realizar operaciones de apoyo en un rescate en altura de tal forma que se minimice el tiempo de respuesta ante una emergencia sin que ello signifique que se haga a un lado la seguridad del rescatista así como la de las maniobras de rescate.</p>"
     },
     {
       "id": 2,
       "img": "/Focassi/Primeros_auxilios_bidqii.jpg",
       "title": "Primeros auxilios",
-      "description": "Seguridad en vía pública, carretera y senderos. Seguridad del respondiente y la víctima. RCP _ Soporte vital inicial en adulto y niños. Maniobra para la desobstrucción de la vía aérea (OVACE). Inmovilización de lesiones. Atención a heridas. Atención a hemorragias. Atención a fracturas."
+      "description": "<ul class='list-disc px-4'><li>Seguridad en vía pública, carretera y senderos.</li><li>Seguridad del respondiente y la víctima.</li><li>RCP _ Soporte vital inicial en adulto y niños. </li><li>Maniobra para la desobstrucción de la vía aérea.</li>(OVACE). <li>Inmovilización de lesiones.</li><li>Atención a heridas. </li><li>Atención a hemorragias. </li><li>Atención a fracturas.</li</ul>"
     },
     {
       "id": 3,
@@ -25,71 +26,74 @@
     {
       "id": 5,
       "img": "/Focassi/Rescate_Acuatico_p2lfx6.jpg",
-      "title": "Rescate Acuatico"
+      "title": "Rescate Acuatico",
+      "description": "<p class='text-justigy'>Brindar los conocimientos teóricos y prácticos necesarios para desarrollar las habilidades competentes para  salvaguardar la vida de las personas que asisten a albercas, balnearios, parques acuáticos, playas etc.</p>"
     },
     {
       "id": 6,
       "img": "/Focassi/Seguridad_e_Higiene_Industrial_ordnuv.jpg",
       "title": "Seguridad e Higiene Industrial",
-      "description": "Norma Oficial Mexicana NOM-030-STPS-2009, Servicios preventivos de seguridad y salud en el trabajo-Funciones y actividades."
+      "description": "<p class='text-justify'>Norma Oficial Mexicana NOM-030-STPS-2009, Servicios preventivos de seguridad y salud en el trabajo-Funciones y actividades.</p>"
     },
     {
       "id": 7,
       "img": "/Focassi/Control_y_Combate_De_Incendios_sqodr7.jpg",
       "title": "Control y Combate De Incendios",
-      "description": "Norma Oficial Mexicana NOM-002-STPS-2010, Condiciones de seguridad-Prevención y protección contra incendios en los centros de trabajo. Uso y manejo de extintores"
+      "description": "<p class='text-justify'>Norma Oficial Mexicana NOM-002-STPS-2010, Condiciones de seguridad-Prevención y protección contra incendios en los centros de trabajo.<br/>Uso y manejo de extintores.</p>"
     },
     {
       "id": 8,
       "img": "/Focassi/Evacuación_en_Caso_de_Emergenciasjpg_yelagq.jpg",
-      "title": "Evacuación en Caso de Emergencias"
+      "title": "Evacuación en Caso de Emergencias",
+      "description": "<p class='text-justify'>Establecer la formación de brigadas acorde a los protocolos de emergencia y normativos para la evacuación del personal ante una emergencia.</p>"
     },
     {
       "id": 9,
       "img": "/Focassi/Safety_Conditions_in_Confined_Spaces_p1ya4m.jpg",
       "title": "Condiciones de Seguridad en Espacios Confinados",
-      "description": "Norma Oficial Mexicana NOM-030-STPS-2009, Servicios preventivos de seguridad y salud en el trabajo-Funciones y actividades."
+      "description": "<p class='text-justify'>Norma Oficial Mexicana NOM-033-STPS-2015, Condiciones de seguridad para realizar trabajos en espacios confinados.</p>"
     },
     {
       "id": 10,
       "img": "/Focassi/Personal_protection_wlwr9i.jpg",
       "title": "Selección Uso y Manejo del Equipo de Protección Personal",
-      "description": "Norma Oficial Mexicana NOM-017-STPS-2008, Equipo de protección personal-Selección, uso y manejo en los centros de trabajo."
+      "description": "<p class='text-justify'>Norma Oficial Mexicana NOM-017-STPS-2008, Equipo de protección personal-Selección, uso y manejo en los centros de trabajo.</p>"
     },
     {
       "id": 11,
       "img": "/Focassi/Identification_and_Protection_oj7ew6.jpg",
       "title": "Identificación, Comunicación De Peligros Y Riesgos de Sustancias Químico Peligrosas en los centros de Trabajo",
-      "description": "Norma Oficial Mexicana NOM-010-STPS-2014, Agentes químicos contaminantes del ambiente laboral-Reconocimiento, evaluación y control."
+      "description": "<p class='text-justify'>Norma Oficial Mexicana NOM-010-STPS-2014, Agentes químicos contaminantes del ambiente laboral-Reconocimiento, evaluación y control.</p>"
     },
     {
       "id": 12,
       "img": "/Focassi/Electricla%20Installations.jpg",
       "title": "Condiciones de Seguridad en Mantenimiento e Instalaciones Eléctricas",
-      "description": "Norma Oficial Mexicana NOM-029-STPS-2011, Mantenimiento de las instalaciones eléctricas en los centros de trabajo-Condiciones de seguridad."
+      "description": "<p class='text-justify'>Norma Oficial Mexicana NOM-029-STPS-2011, Mantenimiento de las instalaciones eléctricas en los centros de trabajo-Condiciones de seguridad.</p>"
     },
     {
       "id": 13,
       "img": "/Focassi/construction_safety_f2uyql.jpg",
       "title": "Condiciones De Seguridad en la Construcción",
-      "description": "Norma Oficial Mexicana NOM-031-STPS-2011, Construcción-Condiciones de seguridad y salud en el trabajo."
+      "description": "<p class='text-justify'>Norma Oficial Mexicana NOM-031-STPS-2011, Construcción-Condiciones de seguridad y salud en el trabajo.</p>"
     },
     {
       "id": 14,
       "img": "/Focassi/Scaffolding_yqythv.jpg",
       "title": "Uso y Armado de Andamios",
-      "description": "Condiciones de seguridad para la correcta ejecucion de armado de andamios acorde a la NOM-009-STPS-2011, Condiciones de seguridad para realizar trabajos en altura."
+      "description": "<p class='text-justify'>Condiciones de seguridad para la correcta ejecucion de armado de andamios acorde a la NOM-009-STPS-2011, Condiciones de seguridad para realizar trabajos en altura.</p>"
     },
     {
       "id": 15,
       "img": "/Focassi/Electricity_Box_tjhuf3.jpg",
       "title": "Loto Candadeo y Etiquetado de Energía",
-      "description": "Lockout/tagout que significa bloqueo/etiquetado. Se refiere a los procedimientos utilizados para asegurar que el equipo esté apagado e inoperable hasta que se completen los trabajos de mantenimiento o reparación."
+      "description": "<p class='text-justify'>Lockout/tagout que significa bloqueo/etiquetado. Se refiere a los procedimientos utilizados para asegurar que el equipo esté apagado e inoperable hasta que se completen los trabajos de mantenimiento o reparación.</p>"
     },
     {
       "id": 16,
       "img": "/Focassi/Powert_Tools._bunjm3.jpg",
-      "title": "Uso de Herramientas Manual y de Poder"
+      "title": "Uso de Herramientas Manual y de Poder",
+      "description": "<p class='text-justify'>En el uso de las herramientas manuales y electricas se deberán adoptar las medidas de seguridad acorde a la normativa.</p>"
     },
     {
       "id": 17,
@@ -98,13 +102,14 @@
     },
     {
       "id": 18,
-      "img": "/Focassi/Oil_Platform_se3pao.jpg",
+      "img":"/Focassi/Plataforma_De_Elevacion_jd5dur.jpg",
       "title": "Plataformas de Elevación"
     },
     {
       "id": 19,
       "img": "/Focassi/Welding_jj9ll4.jpg",
-      "title": "Corte y Soldadura"
+      "title": "Corte y Soldadura",
+      "description": "<p class='text-justify'>Norma Oficial Mexicana NOM-027-STPS-2008, Actividades de soldadura y corte-Condiciones de seguridad e higiene</p>"
     },
     {
       "id": 20,
@@ -114,7 +119,8 @@
     {
       "id": 21,
       "img": "/Focassi/Cranes_hr8tei.jpg",
-      "title": "Seguridad en Maniobras de Grúas e Izajes"
+      "title": "Seguridad en Maniobras de Grúas e Izajes",
+      "description": "<p class='text-justify'>La maniobra de izaje seguro de carga consiste en realizar diversas operaciones para trasladar elementos levantando o realizando un movimiento de maquinaria pesada de un punto a otro, esto con ayuda de diferentes equipos lo cual debemos de realizar de manera segura, controlada y bien calculada.</p>"
     },
     {
       "id": 22,

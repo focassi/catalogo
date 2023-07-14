@@ -54,7 +54,7 @@ export function Navigation() {
         </div>
 
         <div className="hidden mr-3 space-x-4 lg:flex nav__item">
-          <a className="px-6 py-2 text-white bg-indigo-600 rounded-md md:ml-5" href="/#contact-us">CONTACTO</a>
+          <Link className="px-6 py-2 text-black text-sm focus:text-amber-500 active:text-amber-500 hover:text-amber-500 rounded-md border-2 border-black font-medium uppercase leading-normal transition duration-150 ease-in-out hover:border-amber-500 hover:bg-amber-500 hover:bg-opacity-10 focus:border-amber-500 focus:outline-none focus:ring-0 active:border-amber-500" href="/contactanos">CONTACTO</Link>
         </div>
       </nav>
     </div>

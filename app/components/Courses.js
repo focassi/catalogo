@@ -18,7 +18,7 @@ export function Courses({title, n}) {
       <div className={"flex flex-wrap justify-around pb-8"}>
         {
           coursesToShow.map(({ title, img, description }) => (
-            <Course key={title} title={title} img={img} description={description} />
+            <Course key={title} title={title} img={img} description={description} className={`px-6 md:px-0`}/>
           ))
         }
       </div>
