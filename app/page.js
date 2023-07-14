@@ -1,7 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
 // import { Cards } from "./components/Cars";
-import { Contact } from "./components/Contact";
 import { Courses } from "./components/Courses";
 
 export default function homePage() {
@@ -18,9 +17,9 @@ export default function homePage() {
             <div className="px-6 text-center text-white md:px-12">
               <h1 className="mt-2 mb-16 text-3xl font-medium tracking-tight  md:text-4xl xl:text-5xl leading-loose">
                 Comprometidos con la Seguridad y <br />
-                Responsabilidad Civil  <br />en <span className="font-bold">FOCASSI te formamos</span>
+                Responsabilidad Civil  <br /><span className="font-bold">en FOCASSI te Formamos</span>
               </h1>
-              <Link href={'/#contact-us'} scroll={false}
+              <Link href={'/contactanos'} scroll={false}
                 className="rounded-md border-2 border-neutral-50 px-[46px] pt-[14px] pb-[12px] text-sm font-medium uppercase leading-normal text-neutral-50 transition duration-150 ease-in-out hover:border-neutral-100 hover:bg-neutral-100 hover:bg-opacity-10 hover:text-neutral-100 focus:border-neutral-100 focus:text-neutral-100 focus:outline-none focus:ring-0 active:border-neutral-200 active:text-neutral-200"
                 data-te-ripple-init data-te-ripple-color="light">
                 Ponte en contacto
@@ -37,35 +36,6 @@ export default function homePage() {
               Ver mas cursos
             </Link>
           </div>
-        </div>
-      </div>
-      <div className="flex flex-wrap justify-around pb-8">
-        <div className="block max-w-lg my-6">
-          <h3 className="w-full text-3xl text-center font-light">
-            Comunícate con nosotros
-          </h3>
-          <p className="py-4">
-            Nos encanta recibir a nuestros clientes, así que ven en cualquier momento durante las horas de oficina. O escribenos un WhatsApp
-          </p>
-        </div>
-      </div>
-      <div className="flex flex-wrap justify-center items-center pb-8">
-        <div className="w-full max-w-sm my-6 mx-10">
-          <Link
-            href="https://wa.me/523318347660?text=Hola,%20quiero%20saber%20mas%20sobre%20cursos"
-            className="pt-3 pb-2 bg-yellow-300 text-white w-full mt-2 rounded-md font-primary font-semibold text-xl flex 
-                        justify-center items-center hover:bg-yellow-200" aria-label="cart-button">
-            <Image src="/whats-app.svg" alt="whatsApp" width={24} height={24} className="svg-inline--fa fa-shopping-cart fa-w-18 w-5 mx-2" />
-            Información
-          </Link>
-
-          <Link href={'tel:3318347660'} className="block mt-6 py-4 font-medium text-white text-center text-lg transition-colors bg-gray-900 rounded-md hover:bg-gray-800 focus:outline-none focus:ring-offset-2 focus:ring focus:ring-gray-200 px-7" aria-label="cart-button">
-            Llamanos
-          </Link>
-        </div>
-
-        <div className="w-full max-w-md my-6 px-8 rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)]">
-          <Contact id="contact-us"/>
         </div>
       </div>
     </>
