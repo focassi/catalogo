@@ -124,18 +124,21 @@
     },
     {
       "id": 22,
-      "img": "/Focassi/Wastes_omiz3b.jpg",
-      "title": "Gestión Integral de Residuos"
+      "img": "/Focassi/Gestion_Integral_de_Residuos_cbhd1v.jpg",
+      "title": "Gestión Integral de Residuos",
+      "description": "<p class='text-justify'>Conforma el conjunto de actividades que se realizan para tratar correctamente los desechos, desde que se generan y hasta que se reaprovechan o se eliminan, incluyendo almacenamiento, la recoleccion, el transporte, la gestión especial de aquellos que pueden ser peligrosos y el reciclaje.</p>"
     },
     {
       "id": 23,
-      "img": "/Focassi/Electricity_Risk_sspb1i.jpg",
-      "title": "Riesgo Electrico"
+      "img": "/Focassi/Riesgo_Electrico_avai5n.jpg",
+      "title": "Riesgo Electrico",
+      "description": "<p>Establecer y contar con procedimientos de seguridad para las actividades de mantenimiento de las instalaciones eléctricas acorde a la NOM-029-STPS-2011</p>"
     },
     {
       "id": 24,
       "img": "/Focassi/Lladders_Knots_Ropes_v1byl0.jpg",
-      "title": "Manejo de Escaleras, Cuerdas y Nudos"
+      "title": "Manejo de Escaleras, Cuerdas y Nudos",
+      "description": "<p>Brindar los conocimientos teóricos y prácticos necesarios para que se puedan realizar trabajos apegado a los procedimientos de seguridad apegado a la NOM-009-STPS-2011 y procedimientos internacionales.</p>"
     }
   ]
 }
