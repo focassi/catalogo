@@ -50,7 +50,7 @@ export function Navigation() {
                 </li>
               ))
             }
-            <li className="md:hidden mr-3 text-left">
+            <li className="lg:hidden mr-3 text-left">
               <Link href={'/contactanos'} className={`inline-block px-4 py-2 text-lg font-normal text-black no-underline rounded-md hover:text-amber-500 focus:text-amber-500 focus:outline-none `} onClick={() => setSidebarCollapsed((prev) => !prev)}>
                 Contactanos
               </Link>

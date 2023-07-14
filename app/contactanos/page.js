@@ -1,4 +1,3 @@
-// contactanosPage
 import Link from "next/link";
 import Image from "next/image";
 import { Contact } from "../components/Contact";
@@ -35,7 +34,7 @@ export default function contactanosPage() {
         <div className="w-full max-w-md my-6 px-8 rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)]">
           <Contact id="contact-us" />
         </div>
-      </div>ß
+      </div>
     </div>
   )
 }
