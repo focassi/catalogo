@@ -16,9 +16,9 @@ export default function homePage() {
           className="absolute top-0 right-0 bottom-0 left-0 h-full w-full overflow-hidden bg-[hsla(0,0%,0%,0.5)] bg-fixed">
           <div className="flex h-full items-center justify-center">
             <div className="px-6 text-center text-white md:px-12">
-              <h1 className="mt-2 mb-16 text-3xl font-semibold capitalize tracking-tight  md:text-4xl xl:text-5xl leading-loose">
-                Comprometidos con la seguridad y <br />
-                responsabilidad civil  <br /><span>en FOCASSI te formamos</span>
+              <h1 className="mt-2 mb-16 text-3xl font-medium tracking-tight  md:text-4xl xl:text-5xl leading-loose">
+                Comprometidos con la Seguridad y <br />
+                Responsabilidad Civil  <br />en <span className="font-bold">FOCASSI te formamos</span>
               </h1>
               <Link href={'/#contact-us'} scroll={false}
                 className="rounded-md border-2 border-neutral-50 px-[46px] pt-[14px] pb-[12px] text-sm font-medium uppercase leading-normal text-neutral-50 transition duration-150 ease-in-out hover:border-neutral-100 hover:bg-neutral-100 hover:bg-opacity-10 hover:text-neutral-100 focus:border-neutral-100 focus:text-neutral-100 focus:outline-none focus:ring-0 active:border-neutral-200 active:text-neutral-200"
