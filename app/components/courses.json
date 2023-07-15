@@ -21,7 +21,8 @@
     {
       "id": 4,
       "img": "/Focassi/Búsqueda_y_Rescate_yhtnzs.jpg",
-      "title": "Búsqueda y Rescate"
+      "title": "Búsqueda y Rescate",
+      "description": "<p>Establecer la formación de brigadas acorde a los protocolos de emergencia y normativos, implementando brigadas de busqueda y rescate.</p>"
     },
     {
       "id": 5,
@@ -98,7 +99,8 @@
     {
       "id": 17,
       "img": "/Focassi/Excavations_ymndau.jpg",
-      "title": "Riesgo Por Excavaciones"
+      "title": "Riesgo Por Excavaciones",
+      "description": "<p>Contar con los analisis de suelo, analisis de riesgos y procedimientos de seguridad para garantizar la seguridad del personal y la obra.</p>"
     },
     {
       "id": 18,
