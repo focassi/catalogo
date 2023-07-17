@@ -11,7 +11,7 @@ export function Courses({title, n}) {
   return (
     <div className={'container mx-auto max-w-screen-xl'}>
       <div className={"pt-10 pb-5"}>
-        <h3 className={"w-full text-3xl text-center font-light"}>
+        <h3 className={"w-full text-4xl text-center font-light"}>
           {title}
         </h3>
       </div>

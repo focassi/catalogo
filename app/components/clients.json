@@ -1,8 +1,9 @@
 {
-  "clientsdata": [
+  "clientsData": [
     {
       "id": 1,
-      "name": "SIEMENS"
+      "name": "SIEMENS",
+      "img": "https://res.cloudinary.com/dtisjc6sf/image/upload/v1689611196/Focassi/clients/siemens_ez56v6.png"
     },
     {
       "id": 2,
@@ -22,7 +23,33 @@
     },
     {
       "id": 6,
-      "name": "HUAWEI"
+      "name": "HUAWEI",
+      "img": "https://res.cloudinary.com/dtisjc6sf/image/upload/v1689611031/Focassi/clients/huawei_evtg7o.png"
+    },    {
+      "id": 7,
+      "name": "SIEMENS",
+      "img": "https://res.cloudinary.com/dtisjc6sf/image/upload/v1689611196/Focassi/clients/siemens_ez56v6.png"
+    },
+    {
+      "id": 8,
+      "name": "IMEVAL DE OCCIDENTE"
+    },
+    {
+      "id": 9,
+      "name": "Brincolines GDL"
+    },
+    {
+      "id": 10,
+      "name": "Wolf sports center"
+    },
+    {
+      "id": 11,
+      "name": "Clean GDL"
+    },
+    {
+      "id": 12,
+      "name": "HUAWEI",
+      "img": "https://res.cloudinary.com/dtisjc6sf/image/upload/v1689611031/Focassi/clients/huawei_evtg7o.png"
     }
   ]
 }

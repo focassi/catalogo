@@ -21,8 +21,7 @@ export default function contactanosPage() {
         <div className="w-full max-w-sm my-6 mx-10">
           <Link
             href="https://wa.me/523318347660?text=Hola,%20quiero%20saber%20mas%20sobre%20cursos"
-            className="pt-3 pb-2 bg-yellow-300 text-white w-full mt-2 rounded-md font-primary font-semibold text-xl flex 
-                    justify-center items-center hover:bg-yellow-200" aria-label="cart-button">
+            className="pt-3 pb-2 bg-yellow-300 text-white w-full mt-2 rounded-md font-primary font-semibold text-xl flex justify-center items-center hover:bg-yellow-200" aria-label="cart-button">
             <Image src="/whats-app.svg" alt="whatsApp" width={24} height={24} className="svg-inline--fa fa-shopping-cart fa-w-18 w-5 mx-2" />
             Información
           </Link>
