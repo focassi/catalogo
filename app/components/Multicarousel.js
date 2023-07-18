@@ -7,6 +7,8 @@ import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 const cloudURL = "https://res.cloudinary.com/dtisjc6sf/image/upload/c_thumb,w_385,h_274,g_auto/f_auto/q_auto/v1/";
 
+const imgNotFound = "https://res.cloudinary.com/dtisjc6sf/image/upload/v1689639751/Focassi/clients/image-not-found_ip2pjj.jpg";
+
 
 export function Multicarousel() {
   const clients = clientsData;
@@ -18,7 +20,7 @@ export function Multicarousel() {
     },
     desktop: {
       breakpoint: { max: 3000, min: 1024 },
-      items: 5,
+      items: 4,
     },
     tablet: {
       breakpoint: { max: 1024, min: 464 },
@@ -39,7 +41,7 @@ export function Multicarousel() {
         showDots={true}
         slidesToSlide={1}
         infinite={true}
-        autoPlay={true}
+        autoPlay={false}
         autoPlaySpeed={3000}
         keyBoardControl={true}
         customTransition="all .5"
@@ -50,9 +52,9 @@ export function Multicarousel() {
       >
         {clients.map(({ id, name, img }) => {
           return (
-            <div key={id} className={"block max-w-sm my-6 px-5 rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)]"}>
-              <a href="#!" >
-                <Image src={`${img}`} width={385} height={274} alt={name} />
+            <div key={id} className={"block w-60 my-6 px-5 rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)]"}>
+              <a href="#!" className="text-center" >
+                <Image src={`${img ?  img : imgNotFound}`} width={150} height={150} alt={name} className="w-60" />
               </a>
               <div className={"p-6"}>
                 <h5
