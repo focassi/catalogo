@@ -2,7 +2,7 @@
 import Image from "next/image";
 import Link from "next/link";
 
-const cloudURL = "https://res.cloudinary.com/dtisjc6sf/image/upload/c_thumb,w_385,h_274,g_auto/f_auto/q_auto/v1/";
+const cloudURL = "https://res.cloudinary.com/dtisjc6sf/image/upload/c_fill,e_improve,w_385,h_274,g_auto/f_auto/q_auto/v1/";
 
 export function Course({ title, img, description }) {
   return (

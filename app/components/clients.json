@@ -7,7 +7,8 @@
     },
     {
       "id": 2,
-      "name": "IMEVAL DE OCCIDENTE"
+      "name": "IMEVAL DE OCCIDENTE",
+      "img": "https://res.cloudinary.com/dtisjc6sf/image/upload/v1689721226/Focassi/clients/Imeval_de_Occidente_fcdcfy.jpg"
     },
     {
       "id": 3,
@@ -19,7 +20,8 @@
     },
     {
       "id": 5,
-      "name": "Clean GDL"
+      "name": "Clean GDL",
+      "img": "https://res.cloudinary.com/dtisjc6sf/image/upload/v1689721226/Focassi/clients/Clean_GDL_v8tomn.jpg"
     },
     {
       "id": 6,
@@ -27,29 +29,8 @@
       "img": "https://res.cloudinary.com/dtisjc6sf/image/upload/v1689611031/Focassi/clients/huawei_evtg7o.png"
     },    {
       "id": 7,
-      "name": "SIEMENS",
-      "img": "https://res.cloudinary.com/dtisjc6sf/image/upload/t_Thumbnail/v1689611196/Focassi/clients/siemens_ez56v6.png"
-    },
-    {
-      "id": 8,
-      "name": "IMEVAL DE OCCIDENTE"
-    },
-    {
-      "id": 9,
-      "name": "Brincolines GDL"
-    },
-    {
-      "id": 10,
-      "name": "Wolf sports center"
-    },
-    {
-      "id": 11,
-      "name": "Clean GDL"
-    },
-    {
-      "id": 12,
-      "name": "HUAWEI",
-      "img": "https://res.cloudinary.com/dtisjc6sf/image/upload/v1689611031/Focassi/clients/huawei_evtg7o.png"
+      "name": "e-tel Telecomunicaciones",
+      "img": "https://res.cloudinary.com/dtisjc6sf/image/upload/t_Thumbnail/v1689611196/Focassi/clients/e-tel_se6bdb.jpg"
     }
   ]
 }
