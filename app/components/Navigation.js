@@ -1,5 +1,4 @@
 "use client"
-// import classNames from "classnames";
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from "react";
@@ -21,7 +20,7 @@ export function Navigation() {
   const [collapsed, setSidebarCollapsed] = useState(false);
 
   return (
-    <div className="w-full bg-amber-100 ">
+    <div className="w-full bg-amber-100 px-5">
       <nav className="container relative flex flex-wrap items-center justify-between p-8 mx-auto lg:justify-between xl:px-0">
         <div className="flex flex-wrap items-center justify-between w-full lg:w-auto">
           <a href="/">
