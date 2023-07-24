@@ -32,6 +32,11 @@
       "id": 7,
       "name": "e-tel Telecomunicaciones",
       "img": "https://res.cloudinary.com/dtisjc6sf/image/upload/t_Thumbnail/v1689611196/Focassi/clients/e-tel_se6bdb.jpg"
+    },
+    {
+      "id": 8,
+      "name": "VÁNUME",
+      "img": "https://res.cloudinary.com/dtisjc6sf/image/upload/v1690230568/Focassi/clients/vanume_emqanc.jpg"
     }
   ]
 }
