@@ -17,7 +17,8 @@
     },
     {
       "id": 4,
-      "name": "Wolf sports center"
+      "name": "Wolf sports center",
+      "img": "https://res.cloudinary.com/dtisjc6sf/image/upload/v1690231209/Focassi/clients/WolfSportCenter_lvlpf9.jpg"
     },
     {
       "id": 5,
@@ -28,15 +29,16 @@
       "id": 6,
       "name": "HUAWEI",
       "img": "https://res.cloudinary.com/dtisjc6sf/image/upload/v1689611031/Focassi/clients/huawei_evtg7o.png"
-    },    {
+    },
+    {
       "id": 7,
-      "name": "e-tel Telecomunicaciones",
-      "img": "https://res.cloudinary.com/dtisjc6sf/image/upload/t_Thumbnail/v1689611196/Focassi/clients/e-tel_se6bdb.jpg"
+      "name": "VÁNUME",
+      "img": "https://res.cloudinary.com/dtisjc6sf/image/upload/v1690230568/Focassi/clients/vanume_emqanc.jpg"
     },
     {
       "id": 8,
-      "name": "VÁNUME",
-      "img": "https://res.cloudinary.com/dtisjc6sf/image/upload/v1690230568/Focassi/clients/vanume_emqanc.jpg"
+      "name": "e-tel Telecomunicaciones",
+      "img": "https://res.cloudinary.com/dtisjc6sf/image/upload/t_Thumbnail/v1689611196/Focassi/clients/e-tel_se6bdb.jpg"
     }
   ]
 }
