@@ -105,7 +105,8 @@
     {
       "id": 18,
       "img":"/Focassi/Plataforma_De_Elevacion_jd5dur.jpg",
-      "title": "Plataformas de Elevación"
+      "title": "Plataformas de Elevación",
+      "description": "<p class='text-center'>Implementar conocimientos teoricos y practicos para el uso correcto de plataformas de elevacion, garantizando la seguridad de los trabajadores y las instalaciones, apegadonos a la normativa y estandares de seguridad vigentes.</p>"
     },
     {
       "id": 19,
@@ -115,8 +116,9 @@
     },
     {
       "id": 20,
-      "img": "/Focassi/blowtorch_wqw9e7.jpg",
-      "title": "Trabajos en Caliente"
+      "img": "/Focassi/TrabajosEnCaliente_zhgcs5.jpg",
+      "title": "Trabajos en Caliente",
+      "description":"<p class='text-center'>Considerando las actividades en caliente como son, soldadura, corte, esmerilado, aplicación de recubrimientos de techo con soplete, etc. se debera capacitar al personal en materia de seguridad aplicando procedimientos seguros, apegados a la normativa mexicana.</p>"
     },
     {
       "id": 21,
