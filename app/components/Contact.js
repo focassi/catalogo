@@ -3,8 +3,7 @@ import React, { useState } from 'react';
 import { redirect } from 'next/navigation'
 import Image from 'next/image';
 
-// const emailInbox = "direccion@focassi.com.mx";
-const emailInbox = "fili.cueavas@gmail.com"
+const emailInbox = "direccion@focassi.com.mx";
 
 export function Contact() {
   const [emailDone, setEmailDone] = useState(false);
