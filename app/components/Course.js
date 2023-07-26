@@ -19,7 +19,7 @@ export function Course({ title, img, description }) {
         <Link
           type="button"
           href={`https://wa.me/523318347660?text=Hola,%20quiero%20saber%20mas%20sobre%20el%20curso:%20${title}`}
-          className={"inline-block w-full font-medium transition-colors bg-yellow-200 hover:bg-yellow-300 rounded-md focus:outline-none focus:ring-offset-2 focus:ring focus:ring-amber-200 px-7 py-4 | text-center flex justify-center items-center"}
+          className={"w-full font-medium transition-colors bg-yellow-200 hover:bg-yellow-300 rounded-md focus:outline-none focus:ring-offset-2 focus:ring focus:ring-amber-200 px-7 py-4 | text-center flex justify-center items-center"}
           data-te-ripple-init
           data-te-ripple-color="light">
             <Image src="/whats-app-black.svg" alt="whatsApp" width={24} height={24} className="svg-inline--fa fa-shopping-cart fa-w-18 w-5 mx-2 fill-black-500" />
