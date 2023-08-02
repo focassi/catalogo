@@ -1,0 +1,24 @@
+{
+  "teamMembers": [
+    {
+      "avatar": "https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(9).jpg",
+      "name": "Alan Turing",
+      "role": "Frontend Developer"
+    },
+    {
+      "avatar": "https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(4).jpg",
+      "name": "Veronica Smith",
+      "role": "Backend Developer"
+    },
+    {
+      "avatar": "https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(32).jpg",
+      "name": "Tom Johnson",
+      "role": "Digital Marketing Analyst"
+    },
+    {
+      "avatar": "https://mdbcdn.b-cdn.net/img/Photos/Avatars/img%20(31).jpg",
+      "name": "Emma Lovelace",
+      "role": "Web Designer"
+    }
+  ]
+}
