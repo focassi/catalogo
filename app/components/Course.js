@@ -5,7 +5,7 @@ const cloudURL = "https://res.cloudinary.com/dtisjc6sf/image/upload/c_fill,e_imp
 
 export function Course({ title, img, description }) {
   return (
-    <div key={title} className={"block max-w-sm my-6 rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)]"}>
+    <div key={title} className={"max-w-sm my-6 rounded-lg bg-white shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] | flex flex-col justify-between"}>
       <a href="#!">
         <Image src={`${cloudURL}${img}`} width={385} height={274} alt={title} />
       </a>
@@ -16,6 +16,8 @@ export function Course({ title, img, description }) {
         </h5>
         <div className={`py-3 text-sm mt-2 mb-4 list-disc font-light`} dangerouslySetInnerHTML={{ __html: description }}></div>
 
+      </div>
+      <div className={"p-6"}>
         <Link
           type="button"
           href={`https://wa.me/523318347660?text=Hola,%20quiero%20saber%20mas%20sobre%20el%20curso:%20${title}`}
