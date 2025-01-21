@@ -6,7 +6,7 @@ import { useState } from "react";
 const links = [
   {
     label: "Inicio",
-    route: "/"
+    route: "https://focassi.github.io/catalogo/"
   },
   {
     label: "Cursos",
@@ -23,7 +23,7 @@ export function Navigation() {
     <div className="w-full bg-amber-100 px-5">
       <nav className="container relative flex flex-wrap items-center justify-between p-8 mx-auto lg:justify-between xl:px-0">
         <div className="flex flex-wrap items-center justify-between w-full lg:w-auto">
-          <a href="/">
+          <a href="https://focassi.github.io/catalogo/">
             <span className="flex items-center space-x-2 text-2xl font-medium text-indigo-500 dark:text-gray-100">
               <span>
                 <Image alt="logo-focassi" loading="lazy" width={200} height={200} decoding="async" data-nimg="1" className="w-16" style="color:transparent" src={logo} />
