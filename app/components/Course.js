@@ -24,7 +24,7 @@ export function Course({ title, img, description }) {
           className={"w-full font-medium transition-colors bg-yellow-200 hover:bg-yellow-300 rounded-md focus:outline-none focus:ring-offset-2 focus:ring focus:ring-amber-200 px-7 py-4 | text-center flex justify-center items-center"}
           data-te-ripple-init
           data-te-ripple-color="light">
-            <Image src="/whats-app-black.svg" alt="whatsApp" width={24} height={24} className="svg-inline--fa fa-shopping-cart fa-w-18 w-5 mx-2 fill-black-500" />
+            <Image src="./whats-app-black.svg" alt="whatsApp" width={24} height={24} className="svg-inline--fa fa-shopping-cart fa-w-18 w-5 mx-2 fill-black-500" />
           Obtener Detalles
         </Link>
       </div>
